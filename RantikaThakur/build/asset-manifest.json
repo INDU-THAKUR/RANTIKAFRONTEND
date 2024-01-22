@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3de8be3.css",
+    "main.js": "/static/js/main.3416e4ad.js",
+    "static/js/787.1937f22b.chunk.js": "/static/js/787.1937f22b.chunk.js",
+    "static/media/Rectangle.png": "/static/media/Rectangle.41e1bc6a3bf305d0296d.png",
+    "static/media/Rectangle 7.png": "/static/media/Rectangle 7.6503525f393de0f1f44b.png",
+    "static/media/Rectangle 49.png": "/static/media/Rectangle 49.62a9492f9235081b0181.png",
+    "static/media/Rectangle 48.png": "/static/media/Rectangle 48.fd06e2d6dd8fb6f48cb3.png",
+    "static/media/SDP05271.png": "/static/media/SDP05271.a1b80ae5ed210a71d081.png",
+    "static/media/SDP05095.png": "/static/media/SDP05095.76b47ad3e31707033781.png",
+    "static/media/IMG_9108.png": "/static/media/IMG_9108.13ba26f09a89a29eac51.png",
+    "static/media/IMG_9098.png": "/static/media/IMG_9098.d098a24670ebccc74e0f.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.d026940870fb334920b7.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/image1.svg": "/static/media/image1.f20253929f4905b032ef5c1824bd5303.svg",
+    "static/media/image4.svg": "/static/media/image4.aaafe9ebfed87dead97d1d4a7b46c476.svg",
+    "index.html": "/index.html",
+    "static/media/image3.svg": "/static/media/image3.cd9167faddb5a417245a8fc5691e9cbe.svg",
+    "static/media/image2.svg": "/static/media/image2.342643adf1367f0a7f81d48ab72559de.svg",
+    "main.a3de8be3.css.map": "/static/css/main.a3de8be3.css.map",
+    "main.3416e4ad.js.map": "/static/js/main.3416e4ad.js.map",
+    "787.1937f22b.chunk.js.map": "/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3de8be3.css",
+    "static/js/main.3416e4ad.js"
+  ]
+}
